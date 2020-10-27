@@ -1,0 +1,13 @@
+D:\project C#\gemeTextConsole\bin\Release\netcoreapp3.1\gemeTextConsole.exe
+D:\project C#\gemeTextConsole\bin\Release\netcoreapp3.1\gemeTextConsole.deps.json
+D:\project C#\gemeTextConsole\bin\Release\netcoreapp3.1\gemeTextConsole.runtimeconfig.json
+D:\project C#\gemeTextConsole\bin\Release\netcoreapp3.1\gemeTextConsole.runtimeconfig.dev.json
+D:\project C#\gemeTextConsole\bin\Release\netcoreapp3.1\gemeTextConsole.dll
+D:\project C#\gemeTextConsole\bin\Release\netcoreapp3.1\gemeTextConsole.pdb
+D:\project C#\gemeTextConsole\obj\Release\netcoreapp3.1\gemeTextConsole.AssemblyInfoInputs.cache
+D:\project C#\gemeTextConsole\obj\Release\netcoreapp3.1\gemeTextConsole.AssemblyInfo.cs
+D:\project C#\gemeTextConsole\obj\Release\netcoreapp3.1\gemeTextConsole.csproj.CoreCompileInputs.cache
+D:\project C#\gemeTextConsole\obj\Release\netcoreapp3.1\gemeTextConsole.dll
+D:\project C#\gemeTextConsole\obj\Release\netcoreapp3.1\gemeTextConsole.pdb
+D:\project C#\gemeTextConsole\obj\Release\netcoreapp3.1\gemeTextConsole.genruntimeconfig.cache
+D:\project C#\gemeTextConsole\obj\Release\netcoreapp3.1\gemeTextConsole.csprojAssemblyReference.cache
