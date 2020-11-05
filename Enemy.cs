@@ -7,7 +7,7 @@ namespace gemeTextConsole
 		private int HealthPoint;
 		private int StrongPoint;
 		private int ShieldPoint;
-		private readonly string[] NameEnemy = new string[3] { "Skeleton", "Spider", "Slime" };
+		private readonly string[] NameEnemy = new string[3] { "Skeleton", "Spider", "Slime", "EnemyTest"};
 		private string name;
 
 		public void SetName()
@@ -21,6 +21,8 @@ namespace gemeTextConsole
         public string GetName() => name;
 
         public int GetHealth() => HealthPoint;
+
+        public int SetHealth(int regenHealth) => HealthPoint += regenHealth;
 
         public void SetPoint()
 		{
@@ -38,6 +40,12 @@ namespace gemeTextConsole
 				StrongPoint = rand.Next(7, 20);
 				ShieldPoint = rand.Next(5, 8);
 			}
+            else if (name == "EnemyTest")
+            {
+                HealthPoint = rand.Next(200, 550);
+                StrongPoint = rand.Next(70, 200);
+                ShieldPoint = rand.Next(50, 800);
+            }
 			else
 			{
 				HealthPoint = rand.Next(10, 30);
